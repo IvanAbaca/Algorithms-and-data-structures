@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1699750914 source:c:\users\florencia\documents\facultad\plan 2023\2do_p23\algoritmosytda\tda_repaso\lista\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Lista.h"
+
+1699749610 c:\users\florencia\documents\facultad\plan 2023\2do_p23\algoritmosytda\tda_repaso\lista\lista.h
+
+1699750964 source:c:\users\florencia\documents\facultad\plan 2023\2do_p23\algoritmosytda\tda_repaso\lista\lista.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Lista.h"
+
+1699924457 source:c:\users\ivanabaca\documents\unlam\15_algoritmos\tda repaso\tda_repaso\tda_repaso\lista\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Lista.h"
+
+1699913788 c:\users\ivanabaca\documents\unlam\15_algoritmos\tda repaso\tda_repaso\tda_repaso\lista\lista.h
+
+1699924443 source:c:\users\ivanabaca\documents\unlam\15_algoritmos\tda repaso\tda_repaso\tda_repaso\lista\lista.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Lista.h"
+
+1701152454 source:c:\users\ivanabaca\documents\unlam\15_algoritmos\tda repaso\lista\lista.c
+	"Lista.h"
+	"Producto.h"
+
+1701142682 c:\users\ivanabaca\documents\unlam\15_algoritmos\tda repaso\lista\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1701152410 source:c:\users\ivanabaca\documents\unlam\15_algoritmos\tda repaso\lista\main.c
+	"Lista.h"
+	"Producto.h"
+
+1701148906 c:\users\ivanabaca\documents\unlam\15_algoritmos\tda repaso\lista\producto.h
+
+1701150241 source:c:\users\ivanabaca\documents\unlam\15_algoritmos\tda repaso\lista\producto.c
+	"Lista.h"
+	"Producto.h"
+

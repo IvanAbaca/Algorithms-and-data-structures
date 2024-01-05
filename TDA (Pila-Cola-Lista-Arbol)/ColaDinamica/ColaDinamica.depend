@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\florencia\documents\facultad\plan 2023\2do_p23\algoritmosytda\tda_repaso\coladinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1699737250 source:c:\users\florencia\documents\facultad\plan 2023\2do_p23\algoritmosytda\tda_repaso\coladinamica\coladinamica.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"ColaDinamica.h"
+
+1699737208 c:\users\florencia\documents\facultad\plan 2023\2do_p23\algoritmosytda\tda_repaso\coladinamica\coladinamica.h
+
+1700326802 source:c:\users\ivanabaca\documents\unlam\15_algoritmos\tda repaso\tda_repaso\tda_repaso\coladinamica\coladinamica.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"ColaDinamica.h"
+
+1700271425 c:\users\ivanabaca\documents\unlam\15_algoritmos\tda repaso\tda_repaso\tda_repaso\coladinamica\coladinamica.h
+	<stdio.h>
+	<stdlib.h>
+
+1700271783 source:c:\users\ivanabaca\documents\unlam\15_algoritmos\tda repaso\tda_repaso\tda_repaso\coladinamica\main.c
+	"ColaDinamica.h"
+
+1700326802 source:c:\users\ivanabaca\documents\unlam\15_algoritmos\tda repaso\coladinamica\coladinamica.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"ColaDinamica.h"
+
+1700271425 c:\users\ivanabaca\documents\unlam\15_algoritmos\tda repaso\coladinamica\coladinamica.h
+	<stdio.h>
+	<stdlib.h>
+
+1700271783 source:c:\users\ivanabaca\documents\unlam\15_algoritmos\tda repaso\coladinamica\main.c
+	"ColaDinamica.h"
+

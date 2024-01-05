@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\florencia\documents\facultad\plan 2023\2do_p23\algoritmosytda\tda_repaso\piladinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1700328748 source:c:\users\ivanabaca\documents\unlam\15_algoritmos\tda repaso\tda_repaso\tda_repaso\piladinamica\main.c
+	"PilaDinamica.h"
+
+1700328746 c:\users\ivanabaca\documents\unlam\15_algoritmos\tda repaso\tda_repaso\tda_repaso\piladinamica\piladinamica.h
+	<stdio.h>
+	<stdlib.h>
+
+1700328558 source:c:\users\ivanabaca\documents\unlam\15_algoritmos\tda repaso\tda_repaso\tda_repaso\piladinamica\piladinamica.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"PilaDinamica.h"
+

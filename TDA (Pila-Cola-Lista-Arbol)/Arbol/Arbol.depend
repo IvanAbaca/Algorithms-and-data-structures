@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1699988754 source:c:\users\ivanabaca\documents\unlam\15_algoritmos\tda repaso\tda_repaso\tda_repaso\arbol\arbol.c
+	"Arbol.h"
+
+1699986546 c:\users\ivanabaca\documents\unlam\15_algoritmos\tda repaso\tda_repaso\tda_repaso\arbol\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1699988845 source:c:\users\ivanabaca\documents\unlam\15_algoritmos\tda repaso\tda_repaso\tda_repaso\arbol\main.c
+	"Arbol.h"
+
+1699989362 source:c:\users\ivanabaca\documents\unlam\15_algoritmos\tda repaso\arbol\arbol.c
+	"Arbol.h"
+
+1700937905 c:\users\ivanabaca\documents\unlam\15_algoritmos\tda repaso\arbol\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1701023305 source:c:\users\ivanabaca\documents\unlam\15_algoritmos\tda repaso\arbol\arboldoss.c
+	"ArbolDoss.h"
+
+1701203452 c:\users\ivanabaca\documents\unlam\15_algoritmos\tda repaso\arbol\arboldoss.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1701120122 source:c:\users\ivanabaca\documents\unlam\15_algoritmos\tda repaso\arbol\main.c
+	"ArbolDoss.h"
+	"Producto.h"
+
+1701019777 c:\users\ivanabaca\documents\unlam\15_algoritmos\tda repaso\arbol\producto.h
+
+1701045886 source:c:\users\ivanabaca\documents\unlam\15_algoritmos\tda repaso\arbol\producto.c
+	"ArbolDoss.h"
+	"Producto.h"
+
+1701115713 source:c:\users\ivanabaca\documents\unlam\15_algoritmos\tda repaso\arbol\arboltress.c
+	"ArbolDoss.h"
+
+1701185179 source:c:\users\ivanabaca\documents\unlam\15_algoritmos\tda repaso\arbol\arbolcuatross.c
+	"ArbolDoss.h"
+
+1701200860 source:c:\users\ivanabaca\documents\unlam\15_algoritmos\tda repaso\arbol\arbolcincoss.c
+	"ArbolDoss.h"
+

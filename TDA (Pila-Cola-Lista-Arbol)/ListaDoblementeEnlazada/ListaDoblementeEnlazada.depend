@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1699948571 source:c:\users\ivanabaca\documents\unlam\15_algoritmos\tda repaso\tda_repaso\tda_repaso\listadoblementeenlazada\listadoble.c
+	"ListaDoble.h"
+
+1699945978 c:\users\ivanabaca\documents\unlam\15_algoritmos\tda repaso\tda_repaso\tda_repaso\listadoblementeenlazada\listadoble.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1699949616 source:c:\users\ivanabaca\documents\unlam\15_algoritmos\tda repaso\tda_repaso\tda_repaso\listadoblementeenlazada\main.c
+	"ListaDoble.h"
+
+1699931989 source:c:\users\ivanabaca\documents\unlam\15_algoritmos\tda repaso\tda_repaso\tda_repaso\listadoblementeenlazada\lote.c
+
