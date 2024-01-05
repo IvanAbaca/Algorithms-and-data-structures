@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1701132138 source:c:\users\ivanabaca\documents\unlam\15_algoritmos\parcial\2doparcialc\arbol.c
+	<tipos.h>
+	<stdio.h>
+	<stdlib.h>
+	<arbol.h>
+
+1700335457 c:\users\ivanabaca\documents\unlam\15_algoritmos\parcial\include\tipos.h
+
+1701125716 c:\users\ivanabaca\documents\unlam\15_algoritmos\parcial\include\arbol.h
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
+1701128162 source:c:\users\ivanabaca\documents\unlam\15_algoritmos\parcial\2doparcialc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<utilitarias.h>
+	<varias.h>
+	<arbol.h>
+
+1701060793 c:\users\ivanabaca\documents\unlam\15_algoritmos\parcial\include\utilitarias.h
+	<stdio.h>
+	<arbol.h>
+	<tipos.h>
+
+1700335457 c:\users\ivanabaca\documents\unlam\15_algoritmos\parcial\include\varias.h
+
+1701131830 source:c:\users\ivanabaca\documents\unlam\15_algoritmos\parcial\2doparcialc\utilitarias.c
+	<utilitarias.h>
+	<string.h>
+	<varias.h>
+
