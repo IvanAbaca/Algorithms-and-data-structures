@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1697588775 source:c:\users\laboratorios.unlmlab\desktop\recursividad\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1698323390 source:c:\users\ivanabaca\documents\unlam\15_algoritmos\clase\10. recursividad\funciones.c
+	"Funciones.h"
+
+1698323278 c:\users\ivanabaca\documents\unlam\15_algoritmos\clase\10. recursividad\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1698323970 source:c:\users\ivanabaca\documents\unlam\15_algoritmos\clase\10. recursividad\main.c
+	"Funciones.h"
+

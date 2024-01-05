@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1693962337 source:c:\users\laboratorios.unlmlab\desktop\clase__4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+
+1693960889 source:c:\users\laboratorios.unlmlab\desktop\clase__4\funciones.c
+	"Funciones.h"
+
+1693960945 c:\users\laboratorios.unlmlab\desktop\clase__4\funciones.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+

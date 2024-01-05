@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1695273485 source:d:\universidad\algoritmos_y_estructuras\ejercicios\lista_simplementeenlazada\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaH.h"
+
+1695273304 source:d:\universidad\algoritmos_y_estructuras\ejercicios\lista_simplementeenlazada\listac.c
+	"ListaH.h"
+
+1695272820 d:\universidad\algoritmos_y_estructuras\ejercicios\lista_simplementeenlazada\listah.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1696375400 source:c:\users\laboratorios.unlmlab\desktop\lista_simplementeenlazada\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaH.h"
+
+1696375460 c:\users\laboratorios.unlmlab\desktop\lista_simplementeenlazada\listah.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1696375517 source:c:\users\laboratorios.unlmlab\desktop\lista_simplementeenlazada\listac.c
+	"ListaH.h"
+
+1697481982 source:c:\users\ivanabaca\documents\unlam\15_algoritmos\clase\7. pila circular\listac.c
+	"ListaH.h"
+
+1696375460 c:\users\ivanabaca\documents\unlam\15_algoritmos\clase\7. pila circular\listah.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1697481966 source:c:\users\ivanabaca\documents\unlam\15_algoritmos\clase\7. pila circular\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaH.h"
+

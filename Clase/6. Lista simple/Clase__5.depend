@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1695163527 source:c:\users\laboratorios.unlmlab\desktop\clase__5\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1697483319 source:c:\users\ivanabaca\documents\unlam\15_algoritmos\clase\6. lista simple\funciondoss.c
+	"Funciones.h"
+
+1697482197 c:\users\ivanabaca\documents\unlam\15_algoritmos\clase\6. lista simple\funciones.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1697481262 source:c:\users\ivanabaca\documents\unlam\15_algoritmos\clase\6. lista simple\funciones.c
+	"Funciones.h"
+
+1697483409 source:c:\users\ivanabaca\documents\unlam\15_algoritmos\clase\6. lista simple\main.c
+	"Funciones.h"
+

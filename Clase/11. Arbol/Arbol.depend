@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1698191494 source:c:\users\laboratorios.unlmlab\desktop\arbol\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Arbol.h"
+
+1698190528 source:c:\users\laboratorios.unlmlab\desktop\arbol\arbol.c
+	"Arbol.h"
+
+1698190617 c:\users\laboratorios.unlmlab\desktop\arbol\arbol.h
+	"stdlib.h"
+	"stdio.h"
+	"string.h"
+

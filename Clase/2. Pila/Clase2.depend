@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1692753043 source:c:\users\laboratorios.unlmlab\desktop\clase2\funciones.c
+	"Funciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1692752537 source:c:\users\laboratorios.unlmlab\desktop\clase2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+
+1692753137 c:\users\laboratorios.unlmlab\desktop\clase2\funciones.h
+	<stdlib.h>
+
+1692764030 source:d:\descargas\clase2\clase2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+
+1692753137 d:\descargas\clase2\clase2\funciones.h
+	<stdlib.h>
+
+1692763545 source:d:\descargas\clase2\clase2\funciones.c
+	"Funciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1693801446 source:c:\users\miyamura\documents\unlam\18_algoritmos y estructura de datos\clase\2. pila\funciones.c
+	"Funciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1693799273 c:\users\miyamura\documents\unlam\18_algoritmos y estructura de datos\clase\2. pila\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1693801876 source:c:\users\miyamura\documents\unlam\18_algoritmos y estructura de datos\clase\2. pila\main.c
+	"Funciones.h"
+

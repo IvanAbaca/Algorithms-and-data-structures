@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1694566043 source:c:\users\laboratorios.unlmlab\desktop\clase5\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1694560591 source:c:\users\laboratorios.unlmlab\desktop\clase5\funciones.c
+	"Funciones.h"
+
+1694560489 c:\users\laboratorios.unlmlab\desktop\clase5\funciones.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1697481882 source:c:\users\ivanabaca\documents\unlam\15_algoritmos\clase\5. cola estatica\main.c
+	<stdio.h>
+	<stdlib.h>
+
