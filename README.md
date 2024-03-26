@@ -1,4 +1,4 @@
-# Algorithms-and-data-structures (Currently in progress)
+# Algorithms-and-data-structures
 Theory and practice of C learned at UNLaM.
 
 In this repository you can reach information about:
